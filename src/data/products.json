@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Air Conditioner",
+    "company": "CoolAir",
+    "price": 30000,
+    "originalPrice": 35000,
+    "rating": 4,
+    "category": "AC",
+    "images": [
+      "https://img.freepik.com/free-psd/3d-rendering-hotel-icon_23-2150102380.jpg?t=st=1723558859~exp=1723562459~hmac=35d2a2ff29b541f20aa5c4396bf91b1d49bacc35a9e0a11aae27b5b4fd060326&w=740",
+      "https://img.freepik.com/free-photo/close-up-heat-pump-outside-home_23-2149250267.jpg?t=st=1723558930~exp=1723562530~hmac=0df7cf79da3de621550c519d26955c4ae5c6ed863ee90328b057d481c9e8136f&w=900"
+    ],
+    "supportDetails": "24/7 Customer Support",
+    "warrantyDetails": "1 Year Warranty",
+    "shippingDetails": "Free Shipping"
+  },
+  {
+    "id": 5,
+    "name": "Washing Machine",
+    "company": "WashMaster",
+    "price": 25000,
+    "originalPrice": 27000,
+    "rating": 4,
+    "category": "Washing Machine",
+    "images": [
+      "https://img.freepik.com/free-photo/washing-machine-minimal-laundry-room-interior-design_53876-145501.jpg?t=st=1723558291~exp=1723561891~hmac=a772ed999513c91125487fa5d186805f6afaeeb15509f4d40a67567bb7d020bb&w=996",
+      "https://img.freepik.com/free-vector/washing-machine-scale-protection-composition-with-realistic-laundry-washer-serpentine-tube-heater-with-indoor-environment_1284-33058.jpg?t=st=1723559014~exp=1723562614~hmac=cb2857c85d41379e94151af5687fa98e61e75d1592769a360b1d660335d4a4c4&w=740"
+    ],
+    "supportDetails": "24/7 Customer Support",
+    "warrantyDetails": "1 Year Warranty",
+    "shippingDetails": "Free Shipping"
+  },
+  {
+    "id": 9,
+    "name": "Refrigerator",
+    "company": "CoolTech",
+    "price": 40000,
+    "originalPrice": 45000,
+    "rating": 4,
+    "category": "Refrigerator",
+    "images": [
+      "https://img.freepik.com/free-photo/refrigerator-surrounded-by-nature-scene_23-2150165603.jpg?t=st=1723558407~exp=1723562007~hmac=0bf38a614ba79763d09770b0fc5963db6426172b684027274e1c74d27a4bbd65&w=740",
+      "https://img.freepik.com/free-vector/refrigerator-closed-opened-door-with-lots-food_1308-92254.jpg?t=st=1723556717~exp=1723560317~hmac=26114df25694409763786c15dcf0753d01e227a5733d364b4610fb33c53663dd&w=900"
+    ],
+    "supportDetails": "24/7 Customer Support",
+    "warrantyDetails": "2 Years Warranty",
+    "shippingDetails": "Free Shipping"
+  },
+  {
+    "id": 13,
+    "name": "Microwave Oven",
+    "company": "QuickCook",
+    "price": 12000,
+    "originalPrice": 14000,
+    "rating": 4,
+    "category": "Microwave",
+    "images": [
+      "https://img.freepik.com/free-vector/microwave-oven-isolated-white-background_1308-64506.jpg?t=st=1723491144~exp=1723494744~hmac=d5fc91f027348b4a29e50af9035da37be419cfd27011c92671fb9e60b8f88e80&w=996"
+    ],
+    "supportDetails": "24/7 Customer Support",
+    "warrantyDetails": "1 Year Warranty",
+    "shippingDetails": "Free Shipping"
+  },
+  {
+    "id": 17,
+    "name": "Television 32 inch",
+    "company": "ClearView",
+    "price": 35000,
+    "originalPrice": 40000,
+    "rating": 4,
+    "category": "TV",
+    "images": [
+      "https://img.freepik.com/free-psd/modern-tv-screen-isolated_23-2151430324.jpg?t=st=1723559078~exp=1723562678~hmac=0730d76c9e9dd8dbf06bda515701f677ef21dea67bfdad5fc72e6d7bd00efa99&w=996",
+      "https://img.freepik.com/free-vector/lcd-screen-mock-up-plasma-television-front-back-side-view-modern-video-system_1441-1891.jpg?t=st=1723559118~exp=1723562718~hmac=85b06895c72c61ed805704b4a50ee1ca6ac4c90339dd7421eae575b2d97fe29c&w=900"
+    ],
+    "supportDetails": "24/7 Customer Support",
+    "warrantyDetails": "2 Years Warranty",
+    "shippingDetails": "Free Shipping"
+  },
+  {
+    "id": 22,
+    "name": "Laptop 14 inch",
+    "company": "VisionPlus",
+    "price": 45000,
+    "originalPrice": 50000,
+    "rating": 5,
+    "category": "Laptop",
+    "images": [
+      "https://img.freepik.com/free-psd/laptop-mock-up_1310-197.jpg?t=st=1723559102~exp=1723562702~hmac=40654f04e0e838731b631ef330069650895a786c605ac906dbd2170e23209f72&w=996",
+      "https://img.freepik.com/free-psd/laptop-mock-up-lateral-view_1310-199.jpg?t=st=1723559218~exp=1723562818~hmac=14dc2e7f48f3abfc761041c348bdc67afced424b61a9b167c30d4dfdf79d6f49&w=996"
+    ],
+    "supportDetails": "24/7 Customer Support",
+    "warrantyDetails": "1 Year Warranty",
+    "shippingDetails": "Free Shipping"
+  }
+]

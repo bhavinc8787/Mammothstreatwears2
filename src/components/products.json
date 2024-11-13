@@ -1,0 +1,266 @@
+{
+    "Round Neck": [
+      {
+        "id": 1,
+        "name": "Round Neck T-Shirt 1",
+        "category": "Round Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1200,
+        "offerPrice": 800
+      },
+      {
+        "id": 2,
+        "name": "Round Neck T-Shirt 2",
+        "category": "Round Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1300,
+        "offerPrice": 850
+      },
+      {
+        "id": 3,
+        "name": "Round Neck T-Shirt 3",
+        "category": "Round Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1250,
+        "offerPrice": 900
+      },
+      {
+        "id": 4,
+        "name": "Round Neck T-Shirt 4",
+        "category": "Round Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1400,
+        "offerPrice": 950
+      },
+      {
+        "id": 5,
+        "name": "Round Neck T-Shirt 5",
+        "category": "Round Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1450,
+        "offerPrice": 1000
+      },
+      {
+        "id": 6,
+        "name": "Round Neck T-Shirt 6",
+        "category": "Round Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1500,
+        "offerPrice": 1100
+      },
+      {
+        "id": 7,
+        "name": "Round Neck T-Shirt 7",
+        "category": "Round Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1600,
+        "offerPrice": 1200
+      },
+      {
+        "id": 8,
+        "name": "Round Neck T-Shirt 8",
+        "category": "Round Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1700,
+        "offerPrice": 1300
+      }
+    ],
+    "V-Neck": [
+      {
+        "id": 9,
+        "name": "V-Neck T-Shirt 1",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1250,
+        "offerPrice": 850
+      },
+      {
+        "id": 10,
+        "name": "V-Neck T-Shirt 2",
+        "category": "V-Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1400,
+        "offerPrice": 1000
+      },
+      {
+        "id": 11,
+        "name": "V-Neck T-Shirt 3",
+        "category": "V-Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1350,
+        "offerPrice": 950
+      },
+      {
+        "id": 12,
+        "name": "V-Neck T-Shirt 4",
+        "category": "V-Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1450,
+        "offerPrice": 1050
+      },
+      {
+        "id": 13,
+        "name": "V-Neck T-Shirt 5",
+        "category": "V-Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1500,
+        "offerPrice": 1100
+      },
+      {
+        "id": 14,
+        "name": "V-Neck T-Shirt 6",
+        "category": "V-Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1600,
+        "offerPrice": 1150
+      },
+      {
+        "id": 15,
+        "name": "V-Neck T-Shirt 7",
+        "category": "V-Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1650,
+        "offerPrice": 1200
+      },
+      {
+        "id": 16,
+        "name": "V-Neck T-Shirt 8",
+        "category": "V-Neck",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1750,
+        "offerPrice": 1250
+      }
+    ],
+    "Polo": [
+      {
+        "id": 17,
+        "name": "Polo T-Shirt 1",
+        "category": "Polo",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1400,
+        "offerPrice": 950
+      },
+      {
+        "id": 18,
+        "name": "Polo T-Shirt 2",
+        "category": "Polo",
+       "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1350,
+        "offerPrice": 900
+      },
+      {
+        "id": 19,
+        "name": "Polo T-Shirt 3",
+        "category": "Polo",
+       "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1450,
+        "offerPrice": 1000
+      },
+      {
+        "id": 20,
+        "name": "Polo T-Shirt 4",
+        "category": "Polo",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1500,
+        "offerPrice": 1050
+      },
+      {
+        "id": 21,
+        "name": "Polo T-Shirt 5",
+        "category": "Polo",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1550,
+        "offerPrice": 1100
+      },
+      {
+        "id": 22,
+        "name": "Polo T-Shirt 6",
+        "category": "Polo",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1600,
+        "offerPrice": 1150
+      },
+      {
+        "id": 23,
+        "name": "Polo T-Shirt 7",
+        "category": "Polo",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1650,
+        "offerPrice": 1200
+      },
+      {
+        "id": 24,
+        "name": "Polo T-Shirt 8",
+        "category": "Polo",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1750,
+        "offerPrice": 1250
+      }
+    ],
+    "Graphic": [
+      {
+        "id": 25,
+        "name": "Graphic T-Shirt 1",
+        "category": "Graphic",
+       "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1250,
+        "offerPrice": 950
+      },
+      {
+        "id": 26,
+        "name": "Graphic T-Shirt 2",
+        "category": "Graphic",
+       "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1350,
+        "offerPrice": 1000
+      },
+      {
+        "id": 27,
+        "name": "Graphic T-Shirt 3",
+        "category": "Graphic",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1400,
+        "offerPrice": 1050
+      },
+      {
+        "id": 28,
+        "name": "Graphic T-Shirt 4",
+        "category": "Graphic",
+       "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1450,
+        "offerPrice": 1100
+      },
+      {
+        "id": 29,
+        "name": "Graphic T-Shirt 5",
+        "category": "Graphic",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1500,
+        "offerPrice": 1150
+      },
+      {
+        "id": 30,
+        "name": "Graphic T-Shirt 6",
+        "category": "Graphic",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1550,
+        "offerPrice": 1200
+      },
+      {
+        "id": 31,
+        "name": "Graphic T-Shirt 7",
+        "category": "Graphic",
+        "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1600,
+        "offerPrice": 1250
+      },
+      {
+        "id": 32,
+        "name": "Graphic T-Shirt 8",
+        "category": "Graphic",
+       "image": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "originalPrice": 1650,
+        "offerPrice": 1300
+      }
+    ]
+  }
+  
