@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+import Stats from './Stats';
 const About = () => (
   <div className="p-4 sm:p-8">
     <h1 className="text-2xl sm:text-3xl font-bold mb-6 text-center">
@@ -80,7 +80,9 @@ const About = () => (
         </div>
       </div>
     </section>
+    <Stats />
   </div>
+  
 );
 
 export default About;

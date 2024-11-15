@@ -11,13 +11,12 @@ import Footer from './components/Footer';
 import { Provider } from 'react-redux';
 import store from './redux/store';
 import CategoryPage from './components/CategoryPage';
-
+import Product from './components/Product';
 
 const App = () => (
   <Provider store={store}>
     <Router>
       <Navbar />
-      
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/contact-us" element={<ContactUs />} />
@@ -25,7 +24,8 @@ const App = () => (
         <Route path="/cart" element={<Cart />} />
         <Route path="/payment" element={<Payment />} />
         <Route path="/category/:category" element={<CategoryPage />} />
-        <Route path="/Login" element={<Login />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/product" element={<Product />} />
       </Routes>
       <Footer /> 
     </Router>
