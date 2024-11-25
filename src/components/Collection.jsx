@@ -19,7 +19,7 @@ const Collection = () => {
           />
           {/* Get It Button */}
           <button
-            className="absolute bottom-2 left-2 bg-orange-500 text-white font-bold px-4 py-1 rounded-full text-sm hover:bg-orange-700 transition duration-300 ease-in-out transform hover:scale-110 shadow-lg"
+            className="absolute bottom-2 left-2 bg-black text-white font-bold px-4 py-1 rounded-full text-sm hover:bg-black-100 transition duration-300 ease-in-out transform hover:scale-110 shadow-lg"
           >
             Get It
           </button>
