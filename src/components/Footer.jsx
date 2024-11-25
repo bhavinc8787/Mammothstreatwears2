@@ -1,5 +1,5 @@
 import React from 'react';
-
+import logo from '../assets/Bhavin-01.png'
 const Footer = () => {
   return (
     <footer>
@@ -8,7 +8,7 @@ const Footer = () => {
         {/* Company Info Section */}
         <div>
           {/* <h6 className="footer-title">Mammoth Streetwear</h6> */}
-          <img src="src/assets/Bhavin-01.png" alt="Company Logo" className="h-16 w-auto mb-4" />
+          <img src={logo} alt="Company Logo" className="h-16 w-auto mb-4" />
           <p className="text-sm">Email: info@mammothstreetwear.com</p>
           <p className="text-sm">Contact: +91 9876543210</p>
           <p className="text-sm">Address: 123 Street Name, City, State, ZIP</p>

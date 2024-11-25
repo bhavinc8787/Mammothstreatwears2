@@ -52,13 +52,13 @@ const ProductGrid = () => {
                         <span className="text-gray-500 line-through text-sm">
                           ₹{product.originalPrice}
                         </span>
-                        <span className="text-orange-500 font-bold">
+                        <span className="text-black font-bold">
                           ₹{product.offerPrice}
                         </span>
                       </div>
 
                       {/* Add to Cart Button */}
-                      <button className="w-24 bg-white border border-orange-500 text-orange-500 text-xs py-1 rounded-lg hover:bg-orange-500 hover:text-white transition duration-300">
+                      <button className="w-24 bg-white border border-black text-black text-xs py-1 rounded-lg hover:bg-black hover:text-white transition duration-300">
                         Add to Cart
                       </button>
                     </div>

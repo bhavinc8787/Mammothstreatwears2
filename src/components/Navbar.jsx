@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { useSelector } from 'react-redux';
-import { GiMammoth } from "react-icons/gi";
+import logo from '../assets/Bhavin-01.png'
 import { CiSearch } from "react-icons/ci";
 
 const Navbar = () => {
@@ -52,7 +52,7 @@ const Navbar = () => {
             {/* Logo */}
             <a href="/" className="btn btn-ghost">
               <img  
-                src="src/assets/Bhavin-01.png"
+                src={logo}
                 alt="Mammoth Logo"
                 className="h-12 w-auto" // Adjust height and width as needed
               />
