@@ -76,12 +76,37 @@ const Navbar = () => {
               </button>
             </div>
           ) : (
-            <div className="hidden md:flex space-x-8">
-              <Link to="/" className={`text-lg ${isHomePage ? 'text-orange-600' : 'text-gray-800'} hover:text-orange-600`}>Home</Link>
-              <Link to="/collection" className="text-lg text-gray-800 hover:text-orange-600">Collection</Link>
-              <Link to="/customize" className="text-lg text-gray-800 hover:text-orange-600">Customize</Link>
-              <Link to="/about" className="text-lg text-gray-800 hover:text-orange-600">About Us</Link>
-              <Link to="/contact-us" className="text-lg text-gray-800 hover:text-orange-600">Contact Us</Link>
+            <div className="hidden md:flex space-x-8 bg-white">
+              <Link 
+                to="/" 
+                className={`text-lg font-medium ${isHomePage ? 'text-black underline' : 'text-gray-800'} hover:text-black`}
+              >
+                Home
+              </Link>
+              <Link 
+                to="/collection" 
+                className="text-lg font-medium text-gray-800 hover:text-black"
+              >
+                Collection
+              </Link>
+              <Link 
+                to="/customize" 
+                className="text-lg font-medium text-gray-800 hover:text-black"
+              >
+                Customize
+              </Link>
+              <Link 
+                to="/about" 
+                className="text-lg font-medium text-gray-800 hover:text-black"
+              >
+                About Us
+              </Link>
+              <Link 
+                to="/contact-us" 
+                className="text-lg font-medium text-gray-800 hover:text-black"
+              >
+                Contact Us
+              </Link>
             </div>
           )}
         </div>

@@ -10,9 +10,10 @@ const Footer = () => {
         {/* Company Info Section */}
         <div>
           <img src={logo} alt="Company Logo" className="h-16 w-auto mb-4" />
-          <p className="text-sm">Email: info@mammothstreetwear.com</p>
-          <p className="text-sm">Contact: +91 9876543210</p>
-          <p className="text-sm">Address: 123 Street Name, City, State, ZIP</p>
+          <p className="text-sm">Email: mammothplus21@gmail.com</p>
+          <p className="text-sm">Contact: +91 72767 65568</p>
+          <p className="text-sm">Address: Office No-102,Kalpana Tarang Apt,Opp,Ranka Jewellers,Karve Road,Erandwane,Pune-411004
+</p>
         </div>
 
         {/* Information Section */}
@@ -58,7 +59,7 @@ const Footer = () => {
                 placeholder="username@site.com"
                 className="input input-bordered join-item"
               />
-              <button className="btn btn-primary join-item">Subscribe</button>
+              <button className="btn bg-black btn-primary join-item">Subscribe</button>
             </div>
           </fieldset>
         </form>
