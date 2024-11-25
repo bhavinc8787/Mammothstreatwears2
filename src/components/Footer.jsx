@@ -7,8 +7,8 @@ const Footer = () => {
       <div className="footer bg-base-200 text-base-content p-10">
         {/* Company Info Section */}
         <div>
-          <h6 className="footer-title">Mammoth Streetwear</h6>
-          <img src="/logo.png" alt="Company Logo" className="h-16 w-auto mb-4" />
+          {/* <h6 className="footer-title">Mammoth Streetwear</h6> */}
+          <img src="src/assets/Bhavin-01.png" alt="Company Logo" className="h-16 w-auto mb-4" />
           <p className="text-sm">Email: info@mammothstreetwear.com</p>
           <p className="text-sm">Contact: +91 9876543210</p>
           <p className="text-sm">Address: 123 Street Name, City, State, ZIP</p>
@@ -64,7 +64,7 @@ const Footer = () => {
       </div>
 
       {/* Bottom Footer Section */}
-      <div className="bg-base-300 text-base-content py-4">
+      <div className="bg-black text-base-content py-4">
         <div className="flex flex-wrap justify-between items-center">
           {/* Copyright */}
           <p className="text-sm text-gray-600">

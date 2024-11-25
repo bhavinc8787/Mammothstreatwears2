@@ -40,8 +40,8 @@ const Navbar = () => {
 
   {/* Right side: Login and Sign Up links */}
   <div className="space-x-3 flex">
-    <Link to="/login" className="bg-white text-black hover:bg-orange-200 px-2 py-0.5 text-xs h-7 rounded">Login</Link>
-    <Link to="/signup" className="bg-white text-black hover:bg-orange-200 px-2 py-0.5 text-xs h-7 rounded">Sign Up</Link>
+    <Link to="/login" className="bg-white text-black hover:bg-orange-200 px-2 py-1 text-xs h-7 rounded">Login</Link>
+    <Link to="/signup" className="bg-white text-black hover:bg-orange-200 px-2 py-1 text-xs h-7 rounded">Sign Up</Link>
   </div>
 </div>
 

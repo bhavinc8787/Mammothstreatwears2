@@ -56,7 +56,7 @@ function Banner() {
             key={index}
             onClick={() => goToSlide(index)}
             className={`w-3 h-3 rounded-full cursor-pointer ${
-              currentIndex === index ? 'bg-orange-500' : 'bg-gray-400'
+              currentIndex === index ? 'bg-black' : 'bg-white'
             }`}
           />
         ))}
