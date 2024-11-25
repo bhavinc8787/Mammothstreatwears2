@@ -21,21 +21,44 @@ const Navbar = () => {
   return (
     <header>
       {/* Top Section */}
-      <div className="sticky top-0 z-10 bg-gradient-to-r from-orange-500 to-orange-500 h-9 flex justify-end items-center px-5 space-x-3">
-        <Link to="/login" className="bg-white text-orange-600 hover:bg-orange-100 px-2 py-0.5 text-xs h-7 rounded">Login</Link>
-        <Link to="/signup" className="bg-black text-white hover:bg-gray-800 px-2 py-0.5 text-xs h-7 rounded">Sign Up</Link>
-      </div>
+      <div className="sticky top-0 z-10 bg-gradient-to-r from-black to-black h-12 flex justify-between items-center px-5 space-x-3">
+  {/* Left side: Empty to keep space for the center */}
+  <div></div>
+
+  {/* Centered: Free Delivery message and Shop Now button */}
+  <div className="flex items-center space-x-4">
+    {/* Free Delivery message */}
+    <div className="text-white text-xs sm:text-sm md:text-base lg:text-lg">
+      Free Delivery on Min Order ₹500
+    </div>
+
+    {/* Shop Now button */}
+    <Link to="/shop" className="bg-white text-black hover:bg-orange-200 px-3 py-1 text-xs sm:text-sm md:text-sm lg:text-base rounded">
+      Shop Now
+    </Link>
+  </div>
+
+  {/* Right side: Login and Sign Up links */}
+  <div className="space-x-3 flex">
+    <Link to="/login" className="bg-white text-black hover:bg-orange-200 px-2 py-0.5 text-xs h-7 rounded">Login</Link>
+    <Link to="/signup" className="bg-white text-black hover:bg-orange-200 px-2 py-0.5 text-xs h-7 rounded">Sign Up</Link>
+  </div>
+</div>
+
 
       {/* Main Navbar */}
-      <div className="navbar bg-base-200 px-5 flex justify-between items-center">
-        <div className="flex items-center space-x-4">
-          {/* Logo */}
-          <a href="/" className="btn btn-ghost text-xl">
-            <GiMammoth className="text-gray-700" style={{ width: '3rem', height: '3rem' }} />
-            Mammoth
-          </a>
-        </div>
-
+      <div className="navbar bg-white px-5 flex justify-between items-center shadow-md">
+          <div className="flex items-center space-x-4">
+            {/* Logo */}
+            <a href="/" className="btn btn-ghost">
+              <img  
+                src="src/assets/Bhavin-01.png"
+                alt="Mammoth Logo"
+                className="h-12 w-auto" // Adjust height and width as needed
+              />
+            </a>
+          </div>
+       
         {/* Conditional Rendering for Search or Navigation Links */}
         <div className="flex-1 flex justify-center items-center">
           {isSearchOpen ? (
