@@ -6,10 +6,10 @@ function OfferCarasol() {
     <div className="carousel rounded-box skeleton">
       <div className="carousel-item">
         <img
-          src={offerImage1} // Using the imported image
-          alt="Offer"
+          src={offerImage1} // Using the imp
           className="h-72 w-72 object-cover sm:h-80 sm:w-80 md:h-96 md:w-96 lg:h-[28rem] lg:w-[28rem]"
-        />
+        />orted image
+          alt="Offer"
       </div>
       <div className="carousel-item">
         <img

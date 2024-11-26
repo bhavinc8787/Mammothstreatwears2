@@ -12,7 +12,7 @@ const Footer = () => {
           <img src={logo} alt="Company Logo" className="h-16 w-auto mb-4" />
           <p className="text-sm">Email: mammothplus21@gmail.com</p>
           <p className="text-sm">Contact: +91 72767 65568</p>
-          <p className="text-sm">Address: Office No-102,Kalpana Tarang Apt,Opp,Ranka Jewellers,Karve Road,Erandwane,Pune-411004
+          <p className="text-sm">Address: Office No-102,Kalpana Tarang Apt,Opp,Ranka<br/> Jewellers,Karve Road,Erandwane,Pune-411004
 </p>
         </div>
 
