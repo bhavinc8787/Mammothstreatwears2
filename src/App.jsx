@@ -7,6 +7,7 @@ import About from './components/About';
 import Cart from './components/Cart';
 import Payment from './components/Payment';
 import Login from './components/Login';
+import Signup from './components/SignUp';
 import Footer from './components/Footer'; 
 import { Provider } from 'react-redux';
 import store from './redux/store';
@@ -25,6 +26,7 @@ const App = () => (
         <Route path="/payment" element={<Payment />} />
         <Route path="/category/:category" element={<CategoryPage />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/Signup" element={<Signup />} />
         <Route path="/product" element={<Product />} />
       </Routes>
       <Footer /> 
